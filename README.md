@@ -14,4 +14,4 @@ Aide-memoire of web-pages.
 ## Data analysis
 
  - [PATRICK RILEY (2016) - Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-
+ - [Alex Reinhart - Statistics Done Wrong](https://www.statisticsdonewrong.com/p-value.html)
